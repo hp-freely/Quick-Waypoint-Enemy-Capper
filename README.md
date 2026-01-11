@@ -1,3 +1,7 @@
+Download Instructions:
+1. Click "QuickWaypointEnemyCapper.zip"
+2. Click the "..." button in the top right of page.
+3. Select "Download"
 # Quick Waypoint Enemy Capper
 Provides a keybind to waypoint the most recent enemy player to grab your flag from the flagstand (using T2's built-in waypoint system).
 
